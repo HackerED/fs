@@ -1,0 +1,7 @@
+syntax: glob
+.meteor/local
+node_modules
+config/keys.dev.js
+client/node_modules
+client/etc
+client/.git
